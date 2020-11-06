@@ -1,0 +1,9 @@
+# Compiled source
+.pyc
+
+# IDE specific
+.idea/
+.vscode/
+
+# macOS specific
+.DS_Store
